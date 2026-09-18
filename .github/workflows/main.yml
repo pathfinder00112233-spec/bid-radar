@@ -1,8 +1,6 @@
 name: 24-7 Federal Bid Radar
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
